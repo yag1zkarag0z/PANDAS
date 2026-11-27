@@ -4,7 +4,7 @@ A structured notebook for learning and reviewing pandas through explanations, wo
 
 **The README is in English. The notebook explanations and exercises are in Turkish.**
 
-[Open the notebook](Pandas_Detayli_Calisma.ipynb)
+[Open the notebook](Pandas_Detayli_Calisma.ipynb) · [CSV Analyzer project](https://github.com/yag1zkarag0z/CSV-Analyzer)
 
 ## Learning format
 
